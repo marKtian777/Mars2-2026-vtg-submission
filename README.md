@@ -9,7 +9,7 @@ python run_vtg_final_ultimate.py --input test.jsonl --output predictions.jsonl
 ## Model
 - Base Model: Qwen2.5-VL-7B
 - Quantization: float16 with offload
-- Max Frames: 8 (fine-stage)
+- Max Frames: 48 
 
 ## Description
 Method described in main.tex
